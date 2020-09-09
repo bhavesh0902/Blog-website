@@ -7,3 +7,4 @@ To set up the project :-
  npm install
  node app.js
 ```
+* Open `localhost:3000` in your browser 
